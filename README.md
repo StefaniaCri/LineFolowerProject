@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/79380914/213724040-7274edad-ea16-4fb0-8690-d04dfb732cd5.jpg"  width="400" height="550" /><span>   </span><img src="https://user-images.githubusercontent.com/79380914/213724034-58e2e5cd-a0d4-44fb-81db-62b7e7b51a09.jpg"  width="550" height="400" />
 
 # Video
-[To be updated]
+[Watch the line follower:racing_car:](https://youtu.be/azvnlHyIW_s)
 
 # Desription of the project
 

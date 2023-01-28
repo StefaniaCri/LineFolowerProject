@@ -10,7 +10,7 @@
   Create a self-calibrating line follower that can follow a black line path. 
  
  # Desription of the project
-Met Bucșă, our line follower. What code Bucșă follows:  
+Meet Bucșă, our line follower. What code Bucșă follows:  
   a) a calibration system that move 6 of QTR-8A sensors left-right throuh the black line. Most important to move all the sensor to black/white states. The calibration is made with calibrate function from QTR library.<br>
   b) a path-following algorithm that can keep the robot on the black line. this is a proportional-derivative (PD) controller, using a combination of proportional  and derivative control. The proportional gain (kp) controls the robot's ability to steer towards the line, the derivative gain (kd) helps to stabilize the robot's movement. The kp and kd values of 15 and 30 respectively, indicate that the robot is highly responsive to line detection and able to minimize the error as much as possible. In this specifici scenario, we use an empirical approach, choosing the kp and kd so the line follower can follow a straight line and detect the curves in the course.
   

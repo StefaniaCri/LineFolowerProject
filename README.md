@@ -1,10 +1,10 @@
 # FolowLinerProject
 
 # Collaborators:
-<ul>
-<li>Bucșă (also the team name)</li>
-<li> Ana Oprea (https://github.com/ana-oprea/Line-Follower) </li>
-</ul>
+
+* Bucșă (also the team name)
+* [Ana Oprea](https://github.com/ana-oprea/Line-Follower)
+
 
 # Technical task
   Create a self-calibrating line follower that can follow a black line path. 
